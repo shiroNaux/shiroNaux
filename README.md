@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">I'm Shiro from VIệt Nam<br><br>- 👋 Hi, I’m @shiroNaux<br>- 👀 I’m interested in some thing like you 💖💖💖<br>- 🌱 I’m currently learning almost I can 😑😑<br>- 💞️ I’m looking to collaborate on what ever I can 🙄<br>- 📫 How to reach me 😒😩 if you want, you'll know</p>
+<p align="left">I'm Shiro from Việt Nam<br><br>- 👋 Hi, I’m @shiroNaux<br>- 👀 I’m interested in some thing like you 💖💖💖<br>- 🌱 I’m currently learning almost I can 😑😑<br>- 💞️ I’m looking to collaborate on what ever I can 🙄<br>- 📫 How to reach me 😒😩 Use the links above</p>
 
 ###
 
